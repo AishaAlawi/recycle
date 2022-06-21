@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496773506339",
+    "project_id": "recycleom-a37e7",
+    "storage_bucket": "recycleom-a37e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496773506339:android:1bf31a0dd8b3f6e7ab1896",
+        "android_client_info": {
+          "package_name": "com.example.tsetrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496773506339-ht0ccnq6h00ssfmi117s9rdfbcjif8ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDYqN3_-zADOY_Emztj65_C43Rgqdv2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496773506339-ht0ccnq6h00ssfmi117s9rdfbcjif8ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
